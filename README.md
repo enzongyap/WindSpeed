@@ -10,7 +10,7 @@ The script then reads the data and saves the weather station and wind speed read
 to a database, nea-wind-speed.sqlite.
 
 The script then outputs the data to a json file, where.js.
-The where.js format is largely unchanged from Dr Chuck's exmaple version.
+The where.js format is largely unchanged from Dr Chuck's example version.
 
 The script stops running when the data is written to the where.js file.
 The user can load the where.html file to view the visualisation of the NEA stations and windspeed.
